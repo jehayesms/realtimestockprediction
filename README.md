@@ -14,6 +14,7 @@ This step-by-step learning guide takes you through World Wide Importers (WWI) jo
 * Evaluate the machine learning model with Power BI
 
 Move section below:
+
 Wide World Importers (WWI) is a wholesale novelty goods importer and distributor operating from the San Francisco bay area.
 
 As a wholesaler, WWI's customers are mostly companies who resell to individuals. WWI sells to retail customers across the United States, including specialty stores, supermarkets, computing stores, tourist attraction shops, and some individuals. WWI sells to other wholesalers via a network of agents who promote the products on WWI's behalf. While all of WWI's customers are currently based in the United States, the company intends to expand into other countries.
