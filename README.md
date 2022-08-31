@@ -1,4 +1,17 @@
-# World Wide Importers
+# Modern Data Warehousing and Machine Learning with Azure Synapse Analytics and Azure Machine Learning
+
+This step-by-step learning guide takes you through World Wide Importers (WWI) journey to modernize their reporting and analytics environment to a cloud based Analytics platform for both batch and real-time analytics. In the lessons that follow you will learn how to:
+
+* Build a meta-data driven pipeline for Synapse Analytics Pipelines and Dataflows, landing data in Azure Data Lake Storage(ADLS)
+* Design a logical Enterprise Data Warehouse with Azure Synapse Serverless Pool
+* Use Synapse Spark Pools and Notebooks to load data from cloud APIs
+* Leverage Power BI to build datasets and reports for near real-time analytics from the Synapse Serverless Analytics endpoint
+* Ingest data for real-time analytics using:
+  * Azure Event Hub and Azure Stream Analytics
+  * Azure Databricks with Azure Synapse Pipelines
+  * Azure Synapse Analytics Dataflows and Pipelines
+* Develop and training a machine learning model with Azure Machine Learning
+* Evaluate the machine learning model with Power BI
 
 Wide World Importers (WWI) is a wholesale novelty goods importer and distributor operating from the San Francisco bay area.
 
@@ -6,7 +19,7 @@ As a wholesaler, WWI's customers are mostly companies who resell to individuals.
 
 WWI buys goods from suppliers, including novelty and toy manufacturers, and other novelty wholesalers. They stock the goods in their WWI warehouse and reorder from suppliers as needed to fulfill customer orders. They also purchase large volumes of packaging materials and sell these in smaller quantities as a convenience for the customers.
 
-Recently WWI started to sell a variety of edible novelties such as chili chocolates. The company previously did not have to handle chilled items. To meet food handling requirements, they must monitor the temperature in their chiller room and any of their trucks that have chiller sections.
+
 
 **Walkthrough Flows** 
 
